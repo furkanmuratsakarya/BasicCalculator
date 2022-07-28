@@ -25,7 +25,7 @@ public class Calculator{
             System.out.println("Carpma:\t" + (n1*n2));
             break;
             case 4:
-            System.out.printf("Division: %d\t",(n1/n2));
+            System.out.println("Division:\t" + (n1/n2));
             break;
         }
 
